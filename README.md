@@ -6,3 +6,7 @@
 
 **Usage:** /discordwebsender [discordWebhookURL] [Message]
  
+
+----------------------------------------------
+v1.0.1 
+- String Spacing BUG FIXED
