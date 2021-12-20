@@ -1,0 +1,13 @@
+name: Discordwebhookplugin
+version: '${project.version}'
+main: discordwebhookplugin.discordwebhookplugin.PluginMain
+api-version: 1.18
+authors: [ x64 ]
+website: x64#5913
+commands:
+  discordwebhooksender:
+    description: sending discord webhook
+    usage: /discordwebhooksender <webhookURL> <Message>
+  dws:
+    description: sending discord webhook
+    usage: /dws <webhookURL> <Message>
