@@ -8,6 +8,9 @@
  
 
 ----------------------------------------------
+v1.0.2
+- UTF-8 Languages Support
+
 v1.0.1 
 - String Spacing BUG FIXED
 
