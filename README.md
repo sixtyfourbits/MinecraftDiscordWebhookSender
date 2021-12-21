@@ -17,4 +17,3 @@ v1.0.1
 
 v1.0.0
 - TATA!
-- (Used Source Code: https://gist.github.com/k3kdude/fba6f6b37594eae3d6f9475330733bdb)
